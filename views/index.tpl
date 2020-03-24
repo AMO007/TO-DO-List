@@ -29,7 +29,7 @@
     <div class="container">
 
         <h1>Simple TO-DO list</h1>
-        <p>Python + Bubble + SQlite</p>
+        <p>Python + Bottle + SQlite</p>
         <form class="form-inline" action="/add-task" method="post">
             <input type="text" class="form-control m-2" name="description" placeholder="New task">
             <input type="text" class="form-control m-2" name="author" placeholder="Autor">
