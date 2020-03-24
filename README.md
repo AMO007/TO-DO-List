@@ -1,2 +1,2 @@
-# TO-DO-List
+# Simple TO-DO-List
 Python + Bubble + SQlite
